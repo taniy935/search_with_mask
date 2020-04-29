@@ -10,8 +10,7 @@ except ImportError:  # for version < 3.0
     from ArgParse import ArgumentParser
 
 
-
-__prog__ = "search_with_mask.py"
+__prog__ = "search_with_mask"
 __description__ = "Search with mask"
 __version__ = "0.1"
 __version_string__ = '%s version %s' % (__prog__, __version__)
@@ -57,7 +56,7 @@ Write output file.
 
 
 
-def main():
+def run():
     args = get_args()
     path = args.path[0]
 
@@ -124,8 +123,8 @@ def main():
     for m in amask:
         for line in result_new:
             if line.find(m) > 0:
-                print('line: %s' % line)
+                print('%s' % line)
 
 
 if __name__ == '__main__':
-    main()
+    run()
