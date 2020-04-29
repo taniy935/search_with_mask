@@ -10,21 +10,21 @@
 
 # Результат
 
-![версия](images/version.png)
+![версия](images/version.png "версия")
 
-![получение помощи](images/version.png)
+![получение помощи](images/help.png "help")
 
 ## Примеры работы
 
 использование только файла масок
 
-![пример использования 1](images/version.png)
+![пример использования 1](images/example_key_file.png "example1")
 
 использование файла масок и масок из консоли
 
-![пример использования 2](images/version.png)
+![пример использования 2](images/example_key_and_mask.png "example2")
 
 
 использование файла масок и масок из консоли и дополнительных масок
 
-![пример использования 3](images/version.png)
+![пример использования 3](images/example_key_and_amask.png "example3")
