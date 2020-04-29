@@ -1,0 +1,18 @@
+
+mask 'Само' find in file ../examples/02/Kristi_Chertezhi_submarinyi.158928.txt times: 1
+mask 'тот' find in file ../examples/01/Kristi_Chelovek_v_tumane.151950.txt times: 10
+mask 'тот' find in file ../examples/02/Kristi_Chertezhi_submarinyi.158928.txt times: 12
+mask 'тот' find in file ../examples/03/Kristi_Bestsennaya_zhemchuzhina.151946.txt times: 10
+mask 'Тот' find in file ../examples/01/Kristi_Chelovek_v_tumane.151950.txt times: 1
+mask 'Тот' find in file ../examples/02/Kristi_Chertezhi_submarinyi.158928.txt times: 2
+mask 'Тот' find in file ../examples/03/Kristi_Bestsennaya_zhemchuzhina.151946.txt times: 1
+mask 'понаблюдать' find in file ../examples/02/Kristi_Chertezhi_submarinyi.158928.txt times: 1
+mask 'вскричал' find in file ../examples/02/Kristi_Chertezhi_submarinyi.158928.txt times: 1
+mask 'вскричал' find in file ../examples/03/Kristi_Bestsennaya_zhemchuzhina.151946.txt times: 2
+mask 'почему' find in file ../examples/01/Kristi_Chelovek_v_tumane.151950.txt times: 2
+mask 'почему' find in file ../examples/02/Kristi_Chertezhi_submarinyi.158928.txt times: 1
+mask 'почему' find in file ../examples/03/Kristi_Bestsennaya_zhemchuzhina.151946.txt times: 1
+mask 'если' find in file ../examples/01/Kristi_Chelovek_v_tumane.151950.txt times: 9
+mask 'если' find in file ../examples/02/Kristi_Chertezhi_submarinyi.158928.txt times: 9
+mask 'если' find in file ../examples/03/Kristi_Bestsennaya_zhemchuzhina.151946.txt times: 5
+mask 'привет' find in file ../examples/02/Kristi_Chertezhi_submarinyi.158928.txt times: 1
