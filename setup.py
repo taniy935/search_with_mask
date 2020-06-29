@@ -7,7 +7,7 @@ setup(
     name='search_with_mask',
     version=search_with_mask.__version__,
     description='search with mask',
-    long_description=open('README.md').read(),
+    long_description='search with mask',
     url='',
     author='taniy935',
     author_email='taniy935@yandex.ru',
